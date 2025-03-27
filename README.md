@@ -124,12 +124,10 @@ If you find this project useful, please consider giving it a ⭐ on GitHub!
 ---
 
 Made with ❤️ by Noorullah Zamindar
-```
 
----
+
 
 ### 📝 **How to Use This README:**
 1. Replace `https://github.com/yourusername/image_watermarking.git` with your actual GitHub repository URL.
 2. Add actual screenshot images where placeholders are used.
 
-Let me know if you need more adjustments or improvements! 😊
