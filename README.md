@@ -7,7 +7,7 @@ I'll create a professional and modern **README.md** file with all the essential 
 ### 📝 **README.md**
 markdown
 # 🌊 Image Watermarking App
-
+                
 The **Image Watermarking App** is a Flask-based web application that allows users to add customizable watermark text to images. The application leverages **OpenCV**, **PIL**, and **Flask** to process images and display the watermarked result.            
                     
 ---         
