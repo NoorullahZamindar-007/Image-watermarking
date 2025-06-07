@@ -31,7 +31,7 @@ The **Image Watermarking App** is a Flask-based web application that allows user
 | PIL (Pillow) | Image reading and conversion. |
 | Bootstrap | Responsive and modern frontend design. |
 | HTML/CSS  | Frontend structure and styling. |
-
+                              
 ---
 
 ## 🗃️ Project Structure
