@@ -42,7 +42,7 @@ image_watermarking/
 │   └── index.html         # Frontend HTML with Bootstrap
 ├── static/
 │   ├── uploads/           # Folder for uploaded images
-│   └── results/           # Folder for watermarked images
+│   └── results/           # Folder for watermarked images                              
 └── requirements.txt       # Python dependencies
 ```
 
