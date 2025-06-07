@@ -23,7 +23,7 @@ The **Image Watermarking App** is a Flask-based web application that allows user
 ---                   
                   
 ## 🛠️ Technologies Used
-| Technology | Description |                          
+| Technology | Description |                                         
 |-----------|-------------|
 | Python    | Backend programming language. |
 | Flask     | Web framework to build the application. |
