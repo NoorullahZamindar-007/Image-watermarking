@@ -14,7 +14,7 @@ The **Image Watermarking App** is a Flask-based web application that allows user
                                                                         
 ## 🚀 Features                   
 - 📂 Upload your own images.                                     
-- 📝 Add a custom watermark text.                                            
+- 📝 Add a custom watermark text.                                                          
 - 🖼️ Automatically positions the watermark at the bottom-right corner.                                                                           
 - 🌐 Modern and responsive web design using **Bootstrap 5**.                                              
 - 💾 Download the watermarked image after processing.                                                                  
