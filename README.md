@@ -18,7 +18,7 @@ The **Image Watermarking App** is a Flask-based web application that allows user
 - 🖼️ Automatically positions the watermark at the bottom-right corner.                                                                                                    
 - 🌐 Modern and responsive web design using **Bootstrap 5**.                                                          
 - 💾 Download the watermarked image after processing.                                                                  
-- 🎨 Supports various image formats including PNG and JPEG.                                
+- 🎨 Supports various image formats including PNG and JPEG.                                                
                                                                   
 ---                   
                   
