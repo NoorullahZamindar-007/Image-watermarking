@@ -2,7 +2,7 @@
 Image watermarking using Open CV2, flask, bootstrap
 I'll create a professional and modern **README.md** file with all the essential information, including your contact details. 
 
----
+---            
                
 ### 📝 **README.md**           
 markdown                               
